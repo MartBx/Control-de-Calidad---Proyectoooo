@@ -136,46 +136,50 @@ Diseñar y desarrollar una tarjeta de desarrollo de 32 bits llamada Pingüino ID
 
 ⚙️ Control y monitoreo de dispositivos inteligentes.
 
-🗂️ Estructura del Repositorio
+## 🗂️ Estructura del Repositorio
+
+```bash
 PINGUINO-IDE/
 │
 ├── 📂 docs/
-│   ├── Documentación técnica
-│   ├── Reportes del proyecto
-│   ├── Diagramas
-│   └── Manuales de usuario
+│   ├── 📄 Documentación técnica
+│   ├── 📄 Reportes del proyecto
+│   ├── 📄 Diagramas
+│   └── 📄 Manuales de usuario
 │
 ├── 📂 hardware/
-│   ├── Diseño esquemático
-│   ├── PCB Layout
-│   ├── Archivos Gerber
-│   └── Modelos 3D
+│   ├── ⚡ Diseño esquemático
+│   ├── 🖥️ PCB Layout
+│   ├── 📦 Archivos Gerber
+│   └── 🎨 Modelos 3D
 │
 ├── 📂 firmware/
-│   ├── Código fuente
-│   ├── Librerías
-│   ├── Drivers
-│   └── Configuración del PIC32
+│   ├── 💻 Código fuente
+│   ├── 📚 Librerías
+│   ├── 🔌 Drivers
+│   └── ⚙️ Configuración del PIC32
 │
 ├── 📂 simulations/
-│   ├── Simulaciones electrónicas
-│   ├── Validaciones del circuito
-│   └── Pruebas virtuales
+│   ├── 🧪 Simulaciones electrónicas
+│   ├── ✅ Validaciones del circuito
+│   └── 📈 Pruebas virtuales
 │
 ├── 📂 images/
-│   ├── Diseños PCB
-│   ├── Renderizados
-│   ├── Diagramas
-│   └── Etapas del desarrollo
+│   ├── 🖼️ Diseños PCB
+│   ├── 🎨 Renderizados
+│   ├── 📊 Diagramas
+│   └── 🚧 Etapas del desarrollo
 │
 ├── 📂 datasheets/
-│   ├── Datasheets del PIC32
-│   ├── Reguladores
-│   └── Componentes electrónicos
+│   ├── 📑 Datasheet del PIC32
+│   ├── 📑 Reguladores
+│   └── 📑 Componentes electrónicos
 │
-├── README.md
-├── LICENSE
-└── .gitignore
+├── 📄 README.md
+├── 📜 LICENSE
+└── ⚙️ .gitignore
+```
+
 🚧 Próximos Pasos
 
 🔸 Finalizar el diseño esquemático del circuito electrónico.
