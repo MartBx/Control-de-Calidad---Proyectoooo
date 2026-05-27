@@ -1,7 +1,9 @@
 <img src="./Martin/pinguino-logo.png" alt="Calidad" width="250">
 # Control-de-Calidad---Proyectoooo
 🐧 PÍNGUINO IDE
+
 🚀 Plataforma de Desarrollo Electrónico de Nueva Generación
+
 📖 Descripción
 
 Pingüino IDE es un proyecto universitario enfocado en el diseño y desarrollo de una tarjeta electrónica programable basada en un microcontrolador PIC32 de 32 bits, creada como una alternativa moderna, potente y atractiva frente a plataformas tradicionales como Arduino.
